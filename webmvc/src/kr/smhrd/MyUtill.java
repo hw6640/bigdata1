@@ -2,7 +2,7 @@ package kr.smhrd;
 
 public class MyUtill {
 	
-	// ÇÑ±Û ¼öÁ¤
+	// í•œê¸€ ìˆ˜ì • ê¹¨ì§ 
 	public int hap() {
 		int sum = 0;
 		
