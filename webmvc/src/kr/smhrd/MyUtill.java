@@ -2,7 +2,7 @@ package kr.smhrd;
 
 public class MyUtill {
 	
-	// 한글 수정 깨짐 
+	// 한글 수정 깨짐 ! 수정 요망
 	public int hap() {
 		int sum = 0;
 		
