@@ -2,6 +2,7 @@ package kr.smhrd;
 
 public class MyUtill {
 	
+	// 1부터 10까지의 총합을 구하는 동작
 	public int hap() {
 		int sum = 0;
 		
